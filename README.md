@@ -40,8 +40,4 @@ Here are some upcoming features and enhancements we plan to implement in future 
 ## License
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
 
-## Acknowledgements
-We would like to express our gratitude to the following individuals and organizations for their contributions and support:
-- [Name]: [Role/Contribution]
-- [Name]: [Role/Contribution]
 
